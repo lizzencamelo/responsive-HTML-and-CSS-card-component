@@ -18,6 +18,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
+This is my first frontendmentor.io challenge.
+
 ### The challenge
 
 Users should be able to:
@@ -30,6 +32,10 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+Setting up the HTML Page.
+CSS styling responsive mobile first approach followed by desktop approach.
+Reviewing code.
 
 ### Built with
 
