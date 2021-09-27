@@ -72,6 +72,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
+HTML5 Landmarks and ARIA have to be implemented.
 
 ### Useful resources
 
