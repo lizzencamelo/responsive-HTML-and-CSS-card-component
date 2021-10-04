@@ -1,7 +1,5 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -9,7 +7,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -25,6 +22,7 @@ Users should be able to:
 
 - Solution URL: https://github.com/lizzencamelo/Responsive-HTML-and-CSS-Card-Component
 - Live Site URL: https://lizzencamelo.github.io/Responsive-HTML-and-CSS-Card-Component/
+
 ## My process
 
 Setting up the HTML Page.
@@ -38,8 +36,4 @@ Reviewing code.
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-### Continued development
-
-HTML5 Landmarks and ARIA have to be implemented.
 
