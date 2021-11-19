@@ -7,6 +7,7 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
@@ -37,3 +38,5 @@ Reviewing code.
 - CSS Grid
 - Mobile-first workflow
 
+## Author
+- Frontend Mentor - [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
