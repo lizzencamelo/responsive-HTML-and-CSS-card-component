@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/lizzencamelo/Responsive-HTML-and-CSS-Card-Component
-- Live Site URL: https://lizzencamelo.github.io/Responsive-HTML-and-CSS-Card-Component/
+- Solution URL: [View my solution](https://github.com/lizzencamelo/Responsive-HTML-and-CSS-Card-Component)
+- Live Site URL: [Card-Component](https://lizzencamelo.github.io/Responsive-HTML-and-CSS-Card-Component/)
 
 ## My process
 
