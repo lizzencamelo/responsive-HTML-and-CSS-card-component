@@ -44,4 +44,4 @@ Reviewing code.
 - Mobile-first workflow
 
 ## Author
-🍒 [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
+⭐ [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
