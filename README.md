@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-- [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [My process](#my-process)
-- [Built with](#built-with)
-- [Author](#author)
+&nbsp;&nbsp; ▪️ [Overview](#overview)   
+&nbsp;&nbsp; ▪️ [The challenge](#the-challenge)  
+&nbsp;&nbsp; ▪️ [Screenshot](#screenshot)  
+&nbsp;&nbsp; ▪️ [Links](#links)  
+&nbsp;&nbsp; ▪️ [My process](#my-process)  
+&nbsp;&nbsp; ▪️ [Built with](#built-with)  
+&nbsp;&nbsp; ▪️ [Author](#author)  
 
 ## Overview
 
@@ -41,8 +41,7 @@ Reviewing code.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
+🍒 [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
