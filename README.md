@@ -43,5 +43,4 @@ Reviewing code.
 - Flexbox
 - Mobile-first workflow
 
-## Author
-⭐ [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
+## Author | @[lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
