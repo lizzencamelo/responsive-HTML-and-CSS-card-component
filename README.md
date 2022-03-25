@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Order summary card
 
 ## Table of contents
 
