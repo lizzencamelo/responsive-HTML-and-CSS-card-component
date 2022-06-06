@@ -32,9 +32,10 @@ Users should be able to:
 
 ## My process
 
-Setting up the HTML Page.
-CSS styling responsive mobile first approach followed by desktop approach.
-Reviewing code.
+    Setting up the HTML Page.  
+    CSS styling responsive mobile first approach followed by desktop approach.  
+    Testing accessibility.
+    Deploy.
 
 ### Built with
 
